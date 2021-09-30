@@ -1,27 +1,50 @@
 # BookStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+--------------------------
 
-## Development server
+## Getting Started :rocket:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes.
 
-## Code scaffolding
+### Prerequisites :page_with_curl:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  ```
+    Git
+    Text editor
+  ```
 
-## Build
+### Installation:wrench:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The first step is to download the repository in your machine with git or in zip file:
 
-## Running unit tests
+  ```
+    git init
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    git clone git@github.com:Quemia/BookStore.git
 
-## Running end-to-end tests
+    cd BookStore
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+    ng serve
 
-## Further help
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Done with :bulb:
+
+  + Angular CLI 
+  + Typescript
+  + Bootstrap
+      
+  
+## Version :pushpin:
+
++ 12.2.7
++ 4.3.5
++ 5.1.1
+
+## Author :black_nib:
+
+Quemia Oliveira - Code and Documentation [Linkedin](https://www.linkedin.com/in/quemia-caroline-alves-de-oliveira-635042209/)
+
+  
+  
+  
