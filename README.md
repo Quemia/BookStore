@@ -41,9 +41,7 @@ The first step is to download the repository in your machine with git or in zip 
 + 4.3.5
 + 5.1.1
 
-## Author :black_nib:
 
-Quemia Oliveira - Code and Documentation [Linkedin](https://www.linkedin.com/in/quemia-caroline-alves-de-oliveira-635042209/)
 
   
   
