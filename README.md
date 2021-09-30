@@ -1,5 +1,7 @@
 # BookStore
 
+This project is to improve my studies and improve my knowledge in Angular.
+
 --------------------------
 
 ## Getting Started :rocket:
@@ -41,8 +43,10 @@ The first step is to download the repository in your machine with git or in zip 
 + 4.3.5
 + 5.1.1
 
+## Author  :black_nib:
+
+Quemia Oliveira - [Linkedin](https://www.linkedin.com/in/quemia-caroline-alves-de-oliveira-635042209/)
 
 
-  
   
   
