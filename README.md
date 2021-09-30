@@ -6,14 +6,14 @@
 
 These instructions will allow you to get a copy of the project running on your local machine for development and testing purposes.
 
-### Prerequisites :page_with_curl:
+## Prerequisites :page_with_curl:
 
   ```
     Git
     Text editor
   ```
 
-### Installation:wrench:
+## Installation :wrench:
 
 The first step is to download the repository in your machine with git or in zip file:
 
@@ -28,7 +28,7 @@ The first step is to download the repository in your machine with git or in zip 
 
 ```
 
-# Done with :bulb:
+## Done with :bulb:
 
   + Angular CLI 
   + Typescript
